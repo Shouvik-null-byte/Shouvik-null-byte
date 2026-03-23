@@ -10,7 +10,7 @@
 - 📫 How to reach me: **shouviktiger@gmail.com**
 
 <p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=[YOUR_USERNAME]&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+🎯<img src="https://drive.google.com/file/d/1NYTeRjICzICI-QiP1QKuJfHUxGwzvl_Q/view?usp=drivesdk" alt="Resume" />
 </p>
 
 ### 🛠️ Professional Skill Set:
