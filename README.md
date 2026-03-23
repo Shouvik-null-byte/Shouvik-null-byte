@@ -9,9 +9,9 @@
 - 💬 Ask me about **Web Pentesting, Command Injection, and Nmap strategies**.
 - 📫 How to reach me: **shouviktiger@gmail.com**
 
-<p align="left">
-🎯<img src="https://drive.google.com/file/d/1NYTeRjICzICI-QiP1QKuJfHUxGwzvl_Q/view?usp=drivesdk" alt="Resume" />
-</p>
+<a href="https://drive.google.com/file/d/1NYTeRjICzICI-QiP1QKuJfHUxGwzvl_Q/view?usp=drivesdk" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Resume-DE1F26?style=for-the-badge&logo=resume&logoColor=white" alt="Resume" />
+</a>
 
 ### 🛠️ Professional Skill Set:
 
