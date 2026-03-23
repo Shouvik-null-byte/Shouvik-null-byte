@@ -35,9 +35,9 @@
   <img align="center" src="https://img.shields.io/badge/Code%20Review%20Lab-000000?style=for-the-badge&logo=githubactions&logoColor=white" alt="Code Review Lab"
  </a>
 
-<a href="https://tryhackme.com/p/Shouvik" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/external-tryhackme-cyber-security-icons-others-flat-icons.png" alt="TryHackMe" height="30" width="30" /></a>
-</p>
-
+  <a href="https://tryhackme.com/p/Shouvik" target="blank">
+  <img align="center" src="https://img.shields.io/badge/TryHackMe-DE1F26?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+</a>
 
 
 
